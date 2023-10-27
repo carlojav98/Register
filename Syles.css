@@ -1,0 +1,146 @@
+body{
+	background-image: url("https://rincondelmusculo.com/wp-content/uploads/2015/03/boxeo-vidrio-roto-1544111.jpg");
+
+
+ 
+}
+
+.Verficación-btn {
+	width: 100%;
+	background: #00906e !important;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;  
+    border: 2px solid #9D2449;
+    box-shadow: 0 0 0 0 #9d2449;
+}
+
+.Verficación-btn a{
+	color:white   !important;
+	letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+
+/* .Verficación-btn:hover{
+  color: #00906e;
+  background-color: aqua;
+  border-color: blue;
+
+} */
+
+ 
+
+
+/* Syle para formulario Registro */
+
+.Registro-btn {
+	width: 100%;
+	background: #00906e !important;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+
+.Registro-btn a{
+	color: #fff !important;
+	letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+
+/* 
+fondo detex */
+
+.textFondo{
+ border: 0;
+
+ background-color:white;
+ 
+
+  /* background-color:#def;  */
+
+    /* border-radius:5x; */
+}
+
+.inputI:focus{
+  caret-color:black;
+  background: #00906e;
+  }
+
+  .impucuprs{
+    width: 172px;
+    /* font-size: 10px; */
+  }
+
+  .rCahat{
+    width: 60%;
+    height: 80px;
+    
+    }
+
+  .label{
+
+    /* color:#000000; */
+
+  font-weight:600;
+ 
+
+   }
+
+   /* .Nombre{
+    min-width: 100px;
+    display: inline-block;
+   
+   }
+   .Apellido1{
+
+    width: 172px;
+   }
+   .Apellido2{
+    width: 172px;
+
+   } */
+
+
+
+
+  /* .impunsexo{
+
+    width: 75px;
+  }
+
+  .impunnacionalidad{
+
+    width: 65px;
+
+  }
+
+  .impunFechas{
+
+    width: 120px;
+  }
+  */
+
+
+/* 
+  .recaptcha-checkbox-border {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #fff;
+    border: 2px solid #c1c1c1;
+    font-size: 1px;
+    height: 24px;
+    position: absolute;
+    width: 24px;
+    z-index: 1;
+} */
+
